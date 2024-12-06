@@ -1,0 +1,3661 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: myconversa
+    Whatsapp Id: 2
+    Criação do arquivo de logs: 10/11/2024 10:28:26
+    Selecionado Data de inicio de importação: 09/11/2024 10:20:00 
+    Selecionado Data final da importação: 10/11/2024 10:19:00 
+     
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F92B1BB07F55400D9F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731243877",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731243877",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02EE7AD1AFAA9337A6E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731243645",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731243645",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04CE5196F6F115EDFFD"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731243636",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731243638",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB076361FA9658223B4AD"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731242642",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731242643",
+      "readTimestamp": "1731242919",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06533C2B4D18AC9D5BD"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731242425",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731242425",
+      "readTimestamp": "1731242919",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04B291CEFA9AA1B2248"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731242417",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731242420",
+      "readTimestamp": "1731242919",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05E84B12C40771F1DA5"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731241460",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731241460",
+      "readTimestamp": "1731242919",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E76665F1FA2A0872DC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731241237",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731241237",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB076C07CAA4C48CA0751"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731241229",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731241231",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0893038B5CBCEADCB23"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731240253",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731240254",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB024F4809FEE172A4B2A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731240042",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731240043",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A151F825A9A00BCE2B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731240034",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731240035",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04976FA81AE35028A55"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731239055",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731239056",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09FA271388A36E68B12"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731238848",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731238849",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05502185E2AD8AAF4FA"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731238840",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731238841",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB022B27A06A7A94A5F89"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731237851",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731237852",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C2CA4A04FBA0DB5600"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731237649",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731237650",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08C2F3ABEFBE06451DC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731237641",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731237642",
+      "readTimestamp": "1731241394",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08F0B5B3E2B5941B601"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731236670",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731236672",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB096AB3E4A4F3159DD43"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731236454",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0440ED47D16E5025463"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731236446",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0171DD6479FFD743E83"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731235433",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D2987969C5F76A17D9"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731235236",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731235237",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B3C3AF49024AAA361A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731234233",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731234234",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CDA9BA4F34C3D01156"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731234037",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731234038",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B3E9476D3273B7B130"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731233023",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731233023",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB006539F651C2CDA3334"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731232835",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731232836",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D7C3641CBF2266B223"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731231821",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731231828",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FC36913D6B5A4AD8C3"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731231634",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731231635",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08B98D1A059CDFF5E1B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731231626",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731231628",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F135EF833058F927E0"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731230610",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731230610",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08EB678F2ED430A6CD2"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731230434",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731230434",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03DE69A1EF695BECE00"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731230427",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731230428",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B47251CB33F1B0425C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731229452",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731229454",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01478F08FE9F88FFB22"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731229268",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731229268",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB084E7539990A23B6DE7"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731229259",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731229262",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F58369D6BB1374A834"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731206827",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731206828",
+      "readTimestamp": "1731237570",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB063815F27784EACC16C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731206427",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731206427",
+      "readTimestamp": "1731206461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03F446604B9EE619E06"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731206418",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731206419",
+      "readTimestamp": "1731206461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B04104671033E6A218"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731205672",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731206461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00948E258751F1252C3"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731205254",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731206461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05940693C6A483B257A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731205245",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731206461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DA6736ED478CBF5C63"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731204479",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731204480",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C91FC19C225CD808E5"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731204046",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731204046",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB095FA597ED1711522C1"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731204037",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F14075CEE92537E95E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731203256",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DB429ABBD693DD6C12"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731202828",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05FE4BC9681B5E29B4E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731202819",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731205003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06C6682F326D7F2F609"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731202068",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731202069",
+      "readTimestamp": "1731202269",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FEB91B32FA20E081B9"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731201659",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731201659",
+      "readTimestamp": "1731202269",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01CE3617EBE6346FB5D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731201649",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731201650",
+      "readTimestamp": "1731202269",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB059E4CAA9A087ABEA13"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731200901",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731200903",
+      "readTimestamp": "1731202269",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08D5F8B2B2B7EE23DB0"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731200458",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731200458",
+      "readTimestamp": "1731202269",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01E6C6D20DFA7663F38"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731200448",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731200449",
+      "readTimestamp": "1731200451",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A1FF4B72C5CE90EF75"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731199658",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731199659",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D20DA84B8CB06D3EE5"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731199253",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731199254",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02E3E292C96204363E4"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731199244",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731199245",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A27E7FD92D04386CA2"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731198518",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731198518",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06E2AF587C37374EAEC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731198096",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731198096",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB040F76597448AD28207"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731198086",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731198087",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0508D4DF2435B6AF7E8"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731197362",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731197363",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0348C7020F53D3697CE"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731196921",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731196922",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0847AA65EB8534711AC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731196912",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731196913",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CD6EF5B3EC22558EB2"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731196081",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731196082",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB053878F34F3B1EB8C92"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731195644",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731195645",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06E2F3D7ABFA7FB3F1D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731195635",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731195637",
+      "readTimestamp": "1731200447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09072E1C5ECE69EDE0E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731194862",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731194863",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB077C4380601F4D66FD8"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731194446",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731194446",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FB6D9F6D20D5CBE73A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731194437",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731194438",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CA9ECF72D6647E8483"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731193654",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731193654",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01D433EAD5F777B69C3"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731193249",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731193249",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09E6100CF14523BF869"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731193239",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731193240",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F4795757F9BFF0BB57"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731192488",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731192489",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AA3B340989B1832000"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731192048",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731192048",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB023999C3E80339320BA"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731192039",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731192040",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB099304DA9B362B70476"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731191258",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731191259",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B38844CF71C4622AF1"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731190852",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731190852",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05AAAF9569A24159583"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731190843",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731190844",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0858FD9F5403241044D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731190075",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731190076",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E1EFEC8F91A087E29F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731189651",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731189651",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04E3F0D3C0F84260AA2"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731189642",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731189643",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0950E8A9136CBE0FCCC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731188865",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731188866",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB014AE147B1743828675"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731188457",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731188457",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB051D85C605906063369"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731188447",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731188447",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EC20C46F148CD39B6E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731187699",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731187700",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB010FFDF23BDB7D0760D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731187261",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731187261",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 87 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB031C3AEA45B7DD44EC6"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731187252",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731187253",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 88 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0795310E9A6CB70B1CD"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731186466",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731186467",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 89 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D19041E07A9B3FF323"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731186044",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731186045",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 90 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EBE40E165730A54ABE"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731186036",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731186037",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 91 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BBD4B5B09BED07A8C1"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731185209",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731185210",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 92 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09F0A9E767258E9876B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731184833",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731184833",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 93 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB009A73FB877C9EA118F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731184824",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731184825",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 94 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08B7969037AD5956771"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731184033",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731184034",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 95 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB030E0FE2C52C4BDA29C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731183666",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731183666",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 96 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FAE30DA3B710CA8673"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731183657",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 97 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB088BB118F02C3546027"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731182831",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 98 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01D8E11443260AB849E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731182434",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 99 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB004559BD17F58DC4C8C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731182425",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 100 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01E61E26B3504671DEF"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731181697",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 101 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01A05526278E0B4DBC5"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731181300",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 102 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D74DDE7481F2ABE7C7"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731181291",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 103 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB083D59CB9075279F104"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731180437",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 104 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04659A6C03853F76B6E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731180077",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 105 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB088D5B729B6B8E46948"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731180068",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 106 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07F403084EE85BA9097"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731179206",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731179208",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 107 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04AD9B0EEDADB8DD06A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731178849",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731178849",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 108 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0ED3FAE4EE03D85FD3A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731178840",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731178842",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 109 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB003F7C1A3C4D4EA3632"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731178004",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731178004",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 110 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB025997B0C01809DB30C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731177645",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731177645",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 111 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A26C1E8D3082E10C21"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731177636",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731177637",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 112 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07001E1E46CC7508360"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731176867",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731176867",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 113 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EA421CB543D1D5E4CC"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731176462",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731176462",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 114 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB018CB7BCA3B49D65635"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731176452",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731176453",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 115 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0685586F39670363D08"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731175646",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731175646",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 116 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B9570236195B7F88A7"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731175255",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731175256",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 117 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB014A02443D3A7010A8B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731175247",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731175247",
+      "readTimestamp": "1731195523",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 118 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07B9D2C7F5AEF575B0C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731174398",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731174399",
+      "readTimestamp": "1731174971",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 119 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0526BD22D1B98CFCC1B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731174033",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731174034",
+      "readTimestamp": "1731174971",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 120 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB034CF80A35365C08369"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731174024",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731174971",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 121 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A65E63A530927B67D9"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731173206",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731173728",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 122 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F23356E8F92E09550F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731172844",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731172845",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 123 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB059BB88DF7CA99A20CF"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731172836",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731172837",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 124 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0645DE4005854BFAF7D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731172032",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 125 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01E6ADDB8D8584BDE23"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731171654",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 126 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0594841466DA765F661"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731171645",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 127 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0171C713C5D46E31B0B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731170823",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 128 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02D398E1015D4C74621"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731170438",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731170438",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 129 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0650902FFF14CECC297"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731170430",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731170431",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 130 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0711A8F5A2B17D5C256"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731169588",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731169589",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 131 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0977F50315286ED7AD3"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731169241",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731169241",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 132 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07CBA5ABE5120523904"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731169232",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731169233",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 133 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E071AC7D2E4FA95419"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731168405",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731168406",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 134 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01E9C1C6FF61F33F32C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731168047",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731168047",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 135 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E98BB2DAE562756859"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731168038",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731168038",
+      "readTimestamp": "1731173136",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 136 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BDD02C0529A7B99330"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731167194",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731167194",
+      "readTimestamp": "1731167758",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 137 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00A6A52B547EAE33BA7"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731166843",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731166843",
+      "readTimestamp": "1731167758",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 138 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00653C76D09071E6E6A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731166834",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731166835",
+      "readTimestamp": "1731167758",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 139 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C6CD6DC18E49B02904"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731165975",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731165975",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 140 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02200992F2D9E19437D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731165640",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731165640",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 141 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0549F5B894F651BEAC2"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731165632",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731165632",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 142 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00DF7F2490AC8B006ED"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731164809",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731164809",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 143 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AC421379118827F612"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731164465",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731164465",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 144 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB053535659EC42FC957C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731164456",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731164457",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 145 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08AD09EC3B3843F9052"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731163586",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731163587",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 146 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB075A8683F55C9B3DE6E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731163259",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731163259",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 147 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0640D1F006690063502"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731163248",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731163248",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 148 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A14A021F392950519C"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731162388",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731162388",
+      "readTimestamp": "1731166323",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 149 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB033AEC79377707AA84D"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731162051",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731162051",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 150 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01AD52D8F786767E204"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731162043",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731162043",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 151 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0053A2A8450504E3E3F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731161219",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731161219",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 152 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00F19B071D1BC212F4B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731160852",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731160852",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 153 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F32D34AAD696B73E1F"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731160842",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731160845",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 154 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FEAE7DB85A6FF7AE4E"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731159958",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731159960",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 155 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0241926AA99D9B6F7C0"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731159631",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731159631",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 156 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04E0F89A207DB34678A"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731159622",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731159625",
+      "readTimestamp": "1731162239",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 157 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00D586F8614F8309136"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Mapa de Viagens foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731158779",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731158779",
+      "readTimestamp": "1731159080",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 158 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06CA849840BA5ECB537"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Buscar Serviço foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731158445",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731158445",
+      "readTimestamp": "1731158594",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 159 de 159
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5521983138383@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09D17CF25F28BBA085B"
+  },
+  "message": {
+    "conversation": "*Sucesso na API*\nPrezados! O processo da API Não Embarque foi concluído com o status: Sucesso\n*Aplicação*: APP UNICA FACIL\n*Empresa ID*: 62\n*Status*: Sucesso\n*Mensagem*: Processado com sucesso\n*Endpoint*: http://unicafacil.hopto.org:9990/RJIntegra\nO relatório foi processado com sucesso!\n*Equipe de Suporte*\n*MYCONTROLE*\n━━━━━━━━━━━━━━━━━━━━━\n*Notificação enviada pelo sistema MYCONVERSA*\nVisite nosso site:\nhttps://www.myconversa.com.br"
+  },
+  "messageTimestamp": "1731158437",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5521983138383@s.whatsapp.net",
+      "receiptTimestamp": "1731158437",
+      "readTimestamp": "1731158594",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
